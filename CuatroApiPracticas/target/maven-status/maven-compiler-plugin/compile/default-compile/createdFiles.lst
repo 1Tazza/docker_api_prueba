@@ -1,0 +1,12 @@
+com\jpaApi4\demo\model\Tema.class
+com\jpaApi4\demo\repository\ICursoRepository.class
+com\jpaApi4\demo\service\CursoService.class
+com\jpaApi4\demo\controller\CursoController.class
+com\jpaApi4\demo\service\ICursoService.class
+com\jpaApi4\demo\service\ITemaService.class
+com\jpaApi4\demo\dto\TemaDTO.class
+com\jpaApi4\demo\service\TemaService.class
+com\jpaApi4\demo\TheReturnOfApiApplication.class
+com\jpaApi4\demo\model\Curso.class
+com\jpaApi4\demo\repository\ITemaRepository.class
+com\jpaApi4\demo\controller\TemaController.class
